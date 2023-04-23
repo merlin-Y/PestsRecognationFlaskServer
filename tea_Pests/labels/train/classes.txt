@@ -1,0 +1,3 @@
+gall_of_tea
+tea_leaf_blight
+tea_red_leaf_spot

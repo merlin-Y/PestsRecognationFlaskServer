@@ -1,0 +1,4 @@
+names: ['gall_of_tea','tea_leaf_blight','tea_red_leaf_spot','anthracnose_of_tea']
+nc: 4
+train: C:/Users/Merlin/Documents/yolov5/tea_Pests/images/train
+val: C:/Users/Merlin/Documents/yolov5/tea_Pests/images/val
